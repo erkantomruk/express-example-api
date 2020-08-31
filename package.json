@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --watchAll",
     "tsc": "tsc",
-    "start": "nodemon"
+    "start": "ts-node ./src/server.ts"
   },
   "author": "",
   "license": "ISC",
